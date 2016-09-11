@@ -1,4 +1,4 @@
-# pingpang-game
+# game-platform-arduino
 A ping pang game to demonstrate my Arduino game console platform. It uses SSD1306 OLED display and a buzzer as output, and two push buttons as input.
 
 
